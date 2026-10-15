@@ -35,10 +35,11 @@
   )
 }
 
-#let section_01 = include "sections/01_introduction.typ";
 
 #columns(3, gutter: 0pt)[
   #stack(
-    section_01,
+    include "sections/01_coap.typ",
+    include "sections/02_mqtt.typ",
+    include "sections/03_system_architectures.typ",
   )
 ]
