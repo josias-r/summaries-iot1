@@ -40,6 +40,6 @@
   #stack(
     include "sections/01_coap.typ",
     include "sections/02_mqtt.typ",
-    include "sections/03_system_architectures.typ",
+    include "sections/03_OneM2M.typ",
   )
 ]

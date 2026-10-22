@@ -1,4 +1,4 @@
-= System Architectures
+= OneM2M
 #rect()[
   TODO: ????
 ]
